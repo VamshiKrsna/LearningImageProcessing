@@ -1,0 +1,11 @@
+1. download all dibco dataset files and extract them
+2. download the matlap mcr r2016a runtime. 
+3. copy paste the following dll files to project root : 
+ mclmcrrt9_0.dll 
+ libmx.dll 
+ mclmcr.dll 
+ mclmcrrt9_0.dll 
+ mclbase.dll 
+4. nice, the dll errors are over, now java errors are popping up. 
+5. I will replicate these metrics in python rather than following this exe file...
+6. wrote a python script : dibco_metrics.py that mimics the exe file

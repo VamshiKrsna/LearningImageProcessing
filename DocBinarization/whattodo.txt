@@ -1,0 +1,6 @@
+1. download the dibco datasets (in Datasets Directory)
+2. use otsu threshold on gray images (we need to convert the rgb images to gray images first)
+3. write a pipeline that converts a color image to binary.
+4. extract the quantitative quality metrics from the literature.
+5. create a node js service for the entire system
+6. containerize the code.
